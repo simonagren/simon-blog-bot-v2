@@ -20,14 +20,18 @@
     "dependencies": {
         "botbuilder": "~4.7.0",
         "dotenv": "^8.2.0",
-        "replace": "~1.1.1",
-        "restify": "~8.4.0"
+        "jsonfile": "^6.1.0",
+        "moment": "^2.29.1",
+        "random": "^3.0.6",
+        "replace": "^1.1.5",
+        "restify": "~8.4.0",
+        "simple-git": "^2.38.0"
     },
     "devDependencies": {
         "@types/dotenv": "6.1.1",
         "@types/restify": "8.4.1",
         "nodemon": "^1.19.4",
         "tslint": "~5.20.0",
-        "typescript": "~3.6.4"
+        "typescript": "^3.6.5"
     }
 }
