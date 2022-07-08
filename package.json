@@ -21,7 +21,7 @@
         "botbuilder": "~4.7.0",
         "dotenv": "^8.2.0",
         "jsonfile": "^6.1.0",
-        "moment": "^2.29.1",
+        "moment": "^2.29.4",
         "random": "^3.0.6",
         "replace": "^1.1.5",
         "restify": "~8.4.0",
