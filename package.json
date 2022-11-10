@@ -23,7 +23,7 @@
         "jsonfile": "^6.1.0",
         "moment": "^2.29.1",
         "random": "^3.0.6",
-        "replace": "^1.1.5",
+        "replace": "^1.2.2",
         "restify": "~8.4.0",
         "simple-git": "^2.38.0"
     },
